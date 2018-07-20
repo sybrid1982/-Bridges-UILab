@@ -28,6 +28,10 @@ button {
     border-radius: 15px;
 }
 
+button:hover {
+    background-color: #070404;
+}
+
 h1 {
     color: #DD5314;
     text-shadow:    1px 1px #070404, 
